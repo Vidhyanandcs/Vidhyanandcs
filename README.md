@@ -1,12 +1,14 @@
 ### Hi there 👋, 
 
 
-##🔭 Let us build infrstructure and use cases for a better web 3.0
+🔭 Let us build infrstructure and use cases for a better web 3.0
 
 📫 Reach me at vidhyanandcs@gmail.com
 
 
-![Vidhyanand's GitHub stats](https://github-readme-stats.vercel.app/api?username=Vidhyanandcs&count_private=true&show_icons=true&theme=radical)
+![Vidhyanand's GitHub stats](https://github-readme-stats.vercel.app/api?username=Vidhyanandcs&count_private=true&show_icons=true&theme=synthwave)
+
+![Vidhyanand's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Vishyanandcs&theme=synthwave")
 
 <!--
 **Vidhyanandcs/Vidhyanandcs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
