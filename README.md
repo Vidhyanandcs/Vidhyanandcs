@@ -8,7 +8,7 @@
 
 ![Vidhyanand's GitHub stats](https://github-readme-stats.vercel.app/api?username=Vidhyanandcs&count_private=true&show_icons=true&theme=synthwave)
 
-![Vidhyanand's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Vishyanandcs&layout=compact&theme=material-palenight")
+![Vidhyanand's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Vidhyanandcs&layout=compact&theme=synthwave")
 
 <!--
 **Vidhyanandcs/Vidhyanandcs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
