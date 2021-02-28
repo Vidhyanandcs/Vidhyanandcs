@@ -1,9 +1,12 @@
-### Hi there 👋
-
-- 🔭 Let us build infrstructure and use cases for a better web 3.0
+### Hi there 👋, 
 
 
-<img align="center" src="https://github-readme-stats.vercel.app/api/<top-langs>/?username=<Vidhyanandcs>&theme=<radical>" />
+##🔭 Let us build infrstructure and use cases for a better web 3.0
+
+📫 Reach me at vidhyanandcs@gmail.com
+
+
+![Vidhyanand's GitHub stats](https://github-readme-stats.vercel.app/api?username=Vidhyanandcs&count_private=true&show_icons=true&theme=radical)
 
 <!--
 **Vidhyanandcs/Vidhyanandcs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
