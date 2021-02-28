@@ -1,7 +1,7 @@
 ### Hi there 👋,thanks for the visit!
 
 
-## Let us build infrstructure and use cases for a better web 3.0
+## Let us build infrastructure and use cases for a better web 3.0
 
 Web 3.0 is a fundamental disruption, one that in time will leave everything hitherto in its shade. It is a leap forward to open, trustless and permissionless networks. The ultimate outcome of this is the possibility to coordinate & incentivise the long tail of work, service, data and content providers that are the disenfranchised backdrop to many of the worlds most acute challenges such as health, food, finance and sustainability.
 
